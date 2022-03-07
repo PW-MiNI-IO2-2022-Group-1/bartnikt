@@ -13,6 +13,7 @@ namespace StringCalculator
             Console.WriteLine("Hello World!");
         }
 
+        // Calculate from string
         public static int Calculate(string s)
         {
             if (String.IsNullOrWhiteSpace(s)) return 0;
