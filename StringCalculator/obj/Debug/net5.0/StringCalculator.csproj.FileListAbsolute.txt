@@ -1,0 +1,12 @@
+C:\Users\RazorMeister\Desktop\IO2\StringCalculator\bin\Debug\net5.0\StringCalculator.deps.json
+C:\Users\RazorMeister\Desktop\IO2\StringCalculator\bin\Debug\net5.0\StringCalculator.dll
+C:\Users\RazorMeister\Desktop\IO2\StringCalculator\bin\Debug\net5.0\ref\StringCalculator.dll
+C:\Users\RazorMeister\Desktop\IO2\StringCalculator\bin\Debug\net5.0\StringCalculator.pdb
+C:\Users\RazorMeister\Desktop\IO2\StringCalculator\obj\Debug\net5.0\StringCalculator.csproj.AssemblyReference.cache
+C:\Users\RazorMeister\Desktop\IO2\StringCalculator\obj\Debug\net5.0\StringCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RazorMeister\Desktop\IO2\StringCalculator\obj\Debug\net5.0\StringCalculator.AssemblyInfoInputs.cache
+C:\Users\RazorMeister\Desktop\IO2\StringCalculator\obj\Debug\net5.0\StringCalculator.AssemblyInfo.cs
+C:\Users\RazorMeister\Desktop\IO2\StringCalculator\obj\Debug\net5.0\StringCalculator.csproj.CoreCompileInputs.cache
+C:\Users\RazorMeister\Desktop\IO2\StringCalculator\obj\Debug\net5.0\StringCalculator.dll
+C:\Users\RazorMeister\Desktop\IO2\StringCalculator\obj\Debug\net5.0\ref\StringCalculator.dll
+C:\Users\RazorMeister\Desktop\IO2\StringCalculator\obj\Debug\net5.0\StringCalculator.pdb
