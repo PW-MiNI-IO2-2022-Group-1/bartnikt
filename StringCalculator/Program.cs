@@ -24,7 +24,7 @@ namespace StringCalculator
             foreach (string n in number)
             {
                 int intNum = Int32.Parse(n);
-                if (intNum < 0) throw new ArgumentException("Negative number passes: " + intNum);
+                if (intNum < -3) throw new ArgumentException("Negative number passes: " + intNum);
                 if (intNum > 1000) continue;
                 sum += intNum;
             }
